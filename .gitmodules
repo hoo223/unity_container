@@ -1,3 +1,6 @@
 [submodule "share/unity/project/Robotics-Object-Pose-Estimation"]
 	path = share/unity/project/Robotics-Object-Pose-Estimation
 	url = https://github.com/Unity-Technologies/Robotics-Object-Pose-Estimation.git
+[submodule "share/unity/project/Unity-Main-Project"]
+	path = share/unity/project/Unity-Main-Project
+	url = https://github.com/hoo223/Unity-Main-Project.git
